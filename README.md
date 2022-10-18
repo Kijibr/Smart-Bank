@@ -1,4 +1,4 @@
-# alura-styled-components
+# Smart-Bank
 
 ## Para executar o front este projeto:
 
